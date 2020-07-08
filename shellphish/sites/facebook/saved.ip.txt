@@ -1,6 +1,0 @@
-IP: 209.141.41.70
- User-Agent: WhatsApp/2.20.123 AIP: 2a03:2880:10ff:24::face:b00c
- User-Agent: Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36IP: 2401:4900:369f:587:1:1:c5b6:584
- User-Agent: Mozilla/5.0 (Linux; Android 7.0; Moto C Plus Build/NRD90M.03.045; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.162 Mobile Safari/537.36 Instagram 135.0.0.28.119 Android (24/7.0; 320dpi; 720x1280; motorola; Moto C Plus; panell_d; mt6735; en_IN; 206670917)IP: 2401:4900:369f:587:1:1:c5b6:584
- User-Agent: Mozilla/5.0 (Linux; Android 7.0; Moto C Plus Build/NRD90M.03.045; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.162 Mobile Safari/537.36 Instagram 135.0.0.28.119 Android (24/7.0; 320dpi; 720x1280; motorola; Moto C Plus; panell_d; mt6735; en_IN; 206670917)IP: 2405:204:5403:aef8:fe7e:e6db:ff2d:9f4d
- User-Agent: Mozilla/5.0 (Linux; Android 9; X526) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
